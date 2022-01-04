@@ -10,11 +10,14 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/FernandoLimas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandoLimas&amp;show_icons=true&amp;theme=highcontrast&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLimas&amp;layout=compact&amp;langs_count=7&amp;theme=highcontrast" style="max-width: 100%;">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FernandoLimas&amp;show_icons=true&amp;theme=highcontrast&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLimas&amp;layout=compact&amp;langs_count=7&amp;theme=highcontrast" style="max-width: 100%;">
 </a></div>
 
-<div dir="auto"><br>
+##
+
+### Skils:
+<div dir="auto">
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
