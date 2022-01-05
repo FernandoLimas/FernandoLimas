@@ -6,6 +6,7 @@
 - 👨‍🎓 I am a fullstack development student.
 - 📚 I am currently studying backend.
 - 📧 Send me an email: nandofhilipe@gmail.com.
+- ⚡ Fun fact: I love to play games.
 ##
 
 <div align="center" dir="auto">
