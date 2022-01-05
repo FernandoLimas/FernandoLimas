@@ -1,5 +1,8 @@
 # Hello! I'm Fernando Lima<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" >
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Welcome+to+my+repository!">
+</p>
 
 <!--
 **FernandoLimas/FernandoLimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +35,7 @@
   <img align="center" alt="" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
 </div>
 
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ##
 
 <div> 
