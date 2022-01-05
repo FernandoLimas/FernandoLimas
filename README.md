@@ -1,4 +1,5 @@
-### Hello! I'm Fernando Lima 👋
+# Hello! I'm Fernando Lima<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" >
+
 
 <!--
 **FernandoLimas/FernandoLimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
