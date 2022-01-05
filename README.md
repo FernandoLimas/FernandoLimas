@@ -1,8 +1,12 @@
 # Hello! I'm Fernando Lima<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" >
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Welcome+to+my+repository!">
 </p>
+
+----
 
 <!--
 **FernandoLimas/FernandoLimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
