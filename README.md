@@ -12,7 +12,7 @@
 **FernandoLimas/FernandoLimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 👨‍🎓 I am a fullstack development student.
-- 📚 I am currently studying backend (node.js)
+- 📚 I am currently studying backend (NODE.JS)
 - 📧 Send me an email: nandofhilipe@gmail.com.
 - ⚡ Fun fact: I love to play games.
 ##
