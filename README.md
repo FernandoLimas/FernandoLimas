@@ -13,7 +13,7 @@
 -->
 - 👨‍🎓 I am a fullstack development.
 - 📚 I am currently studying backend (Java)
-- 📧 Send me an email: nandofhilipe@gmail.com.
+- 📧 Send me an email: fernando-limas@outlook.com
 - ⚡ Fun fact: I love to play games.
 ##
 
